@@ -18,7 +18,7 @@ comments : false
 ##第一关——画三角形
 弱爆了。这就是那个“九点四线”的弱化版，关键在于思维突破。不要认为只能在四个点之内作画，整个页面都是可用的，如下图：
 
-![4point-3lines](ttp://hahastudio.github.com/assets/images/4points-3lines.png "四点三线")
+![4point-3lines](http://hahastudio.github.com/assets/images/4points-3lines.png "四点三线")
 
 ##第二关——搬运工
 好吧，欺负我没学过CSS= =但像这样的基本问题，都是有现成解法的，google就好了= =只需要会平移和翻转就好了。
@@ -97,7 +97,7 @@ comments : false
 
 这关，我用chrome的审查元素秒之。如下图：
 
-![taobao-chap6](ttp://hahastudio.github.com/assets/images/edit-taobao-chap6.png "审查元素编辑")
+![taobao-chap6](http://hahastudio.github.com/assets/images/edit-taobao-chap6.png "审查元素编辑")
 
 然后在页面回车就可以提交了，不用做`Submit`按钮。
 
