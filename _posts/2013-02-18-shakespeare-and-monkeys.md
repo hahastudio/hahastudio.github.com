@@ -149,11 +149,11 @@ $$\ln \mathcal L ( p ) = n \ln p + ({\sum_{i=1}^n x_i} -n) \ln (1-p) $$
 
 对$$$p$$$求导：
 
-$$\frac{d \mathcal L ( p )}{d p} = \frac{n}{p} - {{\sum_{i=1}^n x_i} -n \over 1 -p} $$
+$$\frac{d \mathcal L ( p )}{d p} = \frac{n}{p} - {\sum_{i=1}^n x_i -n \over 1 -p} $$
 
 令其为0，有：
 
-$$ \frac{n}{p} - {{\sum_{i=1}^n x_i} -n \over 1 -p} = 0 $$
+$$ \frac{n}{p} - {\sum_{i=1}^n x_i -n \over 1 -p} = 0 $$
 
 最终，得p的无偏估计：
 
