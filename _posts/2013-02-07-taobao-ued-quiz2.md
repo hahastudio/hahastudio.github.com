@@ -4,7 +4,7 @@ title: "淘宝UED前端智勇大闯关第2季攻略"
 tagline: 一次尝试
 description: ""
 category: quiz
-tags: [taobao, ued, quiz, css, javascript, python]
+tags: [taobao, ued, quiz, CSS, javascript, Python]
 comments : false
 
 ---
